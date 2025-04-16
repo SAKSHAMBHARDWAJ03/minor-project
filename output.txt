@@ -1,0 +1,47 @@
+To-Do List Menu:
+1. Add Task
+2. Display Tasks
+3. Delete Task
+4. Exit
+Enter your choice: 
+1
+Enter task description: hello'
+Task added: hello'
+
+To-Do List Menu:
+1. Add Task
+2. Display Tasks
+3. Delete Task
+4. Exit
+Enter your choice: 
+2
+To-Do List:
+1. hello'
+
+To-Do List Menu:
+1. Add Task
+2. Display Tasks
+3. Delete Task
+4. Exit
+Enter your choice: 3
+Enter task description to delete: hello'
+Task deleted: hello'
+
+To-Do List Menu:
+1. Add Task
+2. Display Tasks
+3. Delete Task
+4. Exit
+Enter your choice: 2
+No tasks in the list.
+
+To-Do List Menu:
+1. Add Task
+2. Display Tasks
+3. Delete Task
+4. Exit
+Enter your choice: 4
+Exiting...
+
+
+=== Code Execution Successful ===
